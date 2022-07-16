@@ -1,3 +1,22 @@
+### ⚠️⚠️⚠️ THIS IS AN EXPERIMENTAL PRE-RELEASE ⚠️⚠️⚠️ ###
+
+### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
+### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
+### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
+
+###  ⚠️⚠️⚠️ It REQUIRES [CensusPlusTurtle](https://github.com/Lexiebean/CensusPlusTurtle/releases/download/v1.0.3/CensusPlus.v1_0_3.zip) ⚠️⚠️⚠️ ###
+
+### ⚠️⚠️⚠️ It >>> WILL NOT WORK <<< and may even >>> ⚠️⚠️⚠️CRASH YOUR GAME⚠️⚠️⚠️ <<< if you do not have everyone on the Standing list scanned by CensusPlusTurtle ⚠️⚠️⚠️ ###
+
+### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
+### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
+### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
+
+
+### ORIGINAL README BELOW ###
+
+-------------------------------------------------------------------------
+
 ### DISCLAIMER ###
 I did not create this addon, nor adjusted the version for HonorSpy. The Turtle version was made by someone who didn't have a GitHub account and just distributed the addon through Discord. To prevent it getting lost, I'm hosting it on my GitHub.
 
