@@ -6,12 +6,15 @@
 
 ###  ⚠️⚠️⚠️ It REQUIRES [CensusPlusTurtle](https://github.com/Lexiebean/CensusPlusTurtle/releases/download/v1.0.3/CensusPlus.v1_0_3.zip) ⚠️⚠️⚠️ ###
 
+You can place `CensusPlus.lua` in `\Turtle WoW\WTF\Account\ACCOUNT\SavedVariables` to use my pre-built CensusPlus database.
+
 ### ⚠️⚠️⚠️ It >>> WILL NOT WORK <<< and may even >>> ⚠️⚠️⚠️CRASH YOUR GAME⚠️⚠️⚠️ <<< if you do not have everyone on the Standing list scanned by CensusPlusTurtle ⚠️⚠️⚠️ ###
 
 ### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
 ### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
 ### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
 
+Later I will remove the CensusPlus dependancy. This is just up now for people that want early access.
 
 ### ORIGINAL README BELOW ###
 
