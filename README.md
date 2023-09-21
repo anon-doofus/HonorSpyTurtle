@@ -1,3 +1,11 @@
+
+### QUICK AND DIRTY EDIT TO LEXIE'S TURTLEWOW HONORSPY.
+### MERGED MY POOL SIZE FIX, WITH LEXIE'S CENSUSPLUS EDIT FOR REMOVING CROSS-FACTION DATA.
+### UNTESTED. 
+### -t. Kyneswide
+
+-------------------------------------------------------------------------
+
 ### ⚠️⚠️⚠️ THIS IS AN EXPERIMENTAL PRE-RELEASE ⚠️⚠️⚠️ ###
 
 ### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
@@ -15,6 +23,8 @@ You can place `CensusPlus.lua` in `\Turtle WoW\WTF\Account\ACCOUNT\SavedVariable
 ### ⚠️⚠️⚠️ USE AT OWN RISK ⚠️⚠️⚠️ ###
 
 Later I will remove the CensusPlus dependancy. This is just up now for people that want early access.
+
+-------------------------------------------------------------------------
 
 ### ORIGINAL README BELOW ###
 
