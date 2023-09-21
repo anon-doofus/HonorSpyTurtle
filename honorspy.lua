@@ -242,20 +242,21 @@ function HonorSpy:Report(playerOfInterest)
 	if CensusPlus_Database.Servers["Turtle WoW"].TURTLE["Goblin"][HSPOIClass] then if CensusPlus_Database.Servers["Turtle WoW"].TURTLE["Goblin"][HSPOIClass][playerOfInterest] then HSfaction = "H" end end
 
 	local pool_size = 0;
-	local standing = -1;
-	local standingnew = 0;
-	local standingold = -1
-	local t = HonorSpyStandings:BuildStandingsTable()
-	local avg_lastchecked = 0;
-	pool_size = table.getn(t);
-	pool_size = 1200; --turtle put poolsize to 1200 to boost the pool
-	for i = 1, table.getn(t) do
+   		local standing = -1;
+   		local standingnew = 0;
+   		local standingold =-1;
+   		local t = HonorSpyStandings:BuildStandingsTable()
+   		local avg_lastchecked = 0;
+    
+    	pool_size = table.getn(t);
+    		if pool_size < 800 then 
+        	pool_size = 800 --turtle sets minimum poolsize to 800 to boost the pool, if greater than 800 real size is used
+        else pool_size = table.getn(t);
 	
-	
-		standingPOIClass = string.lower(t[i][2])
-		standingPOIClass = string.gsub(standingPOIClass,"^%l", string.upper)
+	standingPOIClass = string.lower(t[i][2])
+	standingPOIClass = string.gsub(standingPOIClass,"^%l", string.upper)
 		
-		local standingPOI = t[i][1]
+	local standingPOI = t[i][1]
 		local tHSfaction = ""
 		if CensusPlus_Database.Servers["Turtle WoW"].TURTLE["High Elf"][standingPOIClass] then if CensusPlus_Database.Servers["Turtle WoW"].TURTLE["High Elf"][standingPOIClass][standingPOI] then tHSfaction = "A" end end
 		if CensusPlus_Database.Servers["Turtle WoW"].TURTLE["Human"][standingPOIClass] then	if CensusPlus_Database.Servers["Turtle WoW"].TURTLE["Human"][standingPOIClass][standingPOI] then tHSfaction = "A" end end
