@@ -3,6 +3,7 @@
 ### MERGED MY POOL SIZE FIX, WITH LEXIE'S CENSUSPLUS EDIT FOR REMOVING CROSS-FACTION DATA.
 ### UNTESTED. 
 ### -t. Kyneswide
+### Updating Lexie's CensusPlus.lua with recent Census data. Given that it apprantly crashes for any players not in the DB in your BG; still probably too unrlieable for rankers to use, defeating the purpose.
 
 -------------------------------------------------------------------------
 
